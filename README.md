@@ -6,11 +6,9 @@
 3. Install dependencies
 
 ### Method
-1.Register: https://testnet.binancefuture.com
-
-2.Generate API Key & Secret
-
-3.Enable Futures
+1. Register: https://testnet.binancefuture.com
+2. Generate API Key & Secret
+3. Enable Futures
 
 ### Run
 Market Order:
